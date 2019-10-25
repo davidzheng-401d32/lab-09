@@ -5,9 +5,9 @@
 ### Author: David Zheng 
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/davidzheng-401d32/lab-09/pull/1)
+* [travis](https://travis-ci.com/davidzheng-401d32/lab-09/builds/133499570)
+* [back-end]Will update Heroku link when there is more progress on the lab. 
 * [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
